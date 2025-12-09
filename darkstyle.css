@@ -218,7 +218,7 @@ li a:hover {
 }
 
 .tela_blur:hover {
-    height: 280px;
+    height: 270px;
     border: 1px solid;
     border-image: linear-gradient(to right, rgb(255, 153, 0), rgb(96, 255, 207)) 1; 
     background-color: rgba(255, 255, 255, 0.075);
@@ -420,28 +420,29 @@ footer {
     }
 
     .tela_boas_vindas p {
-    width: 400px;
+        width: 400px;
     }
 
     .tela_blur {
-    height: 700px;
-    margin-top: 20px;
+        width: 400px;
+        height: 700px;
+        margin-top: 20px;
     }
 
     .tela_portifolio img {
-    width: 400px;
+        width: 400px;
     }
 
     .apresentacao p {
-    width: 400px;
-    text-align: justify;
-    margin-bottom: 20px;
+        width: 400px;
+        text-align: justify;
+        margin-bottom: 20px;
     }
 
     .tela_portifolio p {
-    width: 400px;
-    text-align: justify;
-    margin-bottom: 20px;
+        width: 400px;
+        text-align: justify;
+        margin-bottom: 20px;
     }
 
 }
