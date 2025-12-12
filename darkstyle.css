@@ -450,6 +450,10 @@ footer {
         margin-bottom: 50px;
     }
 
+    .tela_blur:hover {
+    height: 420px;
+    }
+
     .tela_blur h2 {
         margin-top: 20px;
         margin-bottom: 20px;
