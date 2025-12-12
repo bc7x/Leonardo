@@ -429,6 +429,10 @@ footer {
         display: none;
     }
 
+    .tela_boas_vindas {
+        height: 800px;
+    }
+
     .tela_boas_vindas p {
         width: 400px;
     }
@@ -436,11 +440,12 @@ footer {
     .tela_blur {
         width: 400px;
         height: 800px;
-        margin-top: 75px;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
 
     .tela_blur h2 {
-        word-spacing: 15px;
+        word-spacing: 20px;
         margin-top: 20px;
         margin-bottom: 20px;
     }
