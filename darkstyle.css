@@ -421,6 +421,7 @@ footer {
 @media (max-width: 768px) {
 
     .navbar {
+        width: 380px;
         display: flex;
         justify-content: center;
     }
@@ -440,11 +441,11 @@ footer {
     }
 
     .tela_boas_vindas p {
-        width: 400px;
+        width: 380px;
     }
 
     .tela_blur {
-        width: 400px;
+        width: 380px;
         height: 800px;
         margin-top: 50px;
         margin-bottom: 50px;
@@ -458,22 +459,25 @@ footer {
         margin-top: 20px;
         margin-bottom: 20px;
         line-height: 2.0;
+        font-size: 30px;
     }
 
     .tela_portifolio img {
-        width: 400px;
+        width: 380px;
     }
 
     .apresentacao p {
-        width: 400px;
+        width: 380px;
         text-align: justify;
         margin-bottom: 20px;
+        padding: 10px;
     }
 
     .tela_portifolio p {
-        width: 400px;
+        width: 380px;
         text-align: justify;
         margin-bottom: 0px;
+        padding: 10px;
     }
 
 }
