@@ -133,7 +133,7 @@ li a:hover {
     background-attachment: fixed;
     background-size: cover;
     width: 100%;
-    height: 610px;
+    height: 650px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -435,8 +435,8 @@ footer {
 
     .tela_blur {
         width: 400px;
-        height: 700px;
-        margin-top: 20px;
+        height: 750px;
+        margin-top: 50px;
     }
 
     .tela_blur h2 {
