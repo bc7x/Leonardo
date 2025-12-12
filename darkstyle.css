@@ -431,6 +431,12 @@ footer {
 
     .tela_boas_vindas {
         height: 800px;
+        padding-top: 50px;
+        padding-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
     .tela_boas_vindas p {
@@ -445,9 +451,9 @@ footer {
     }
 
     .tela_blur h2 {
-        word-spacing: 20px;
         margin-top: 20px;
         margin-bottom: 20px;
+        line-height: 2.0;
     }
 
     .tela_portifolio img {
