@@ -421,7 +421,7 @@ footer {
 @media (max-width: 768px) {
 
     .navbar {
-        width: 380px;
+        width: 100vw;
         display: flex;
         justify-content: center;
     }
@@ -452,7 +452,7 @@ footer {
     }
 
     .tela_blur:hover {
-    height: 420px;
+    height: 700px;
     }
 
     .tela_blur h2 {
